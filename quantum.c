@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
+//feature code
 #define MAX_DATABASE_SIZE 100
 
 // Function to apply the Pauli X operation to a qubit
